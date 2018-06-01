@@ -4,7 +4,7 @@ One Method for Gray-Out (Disable) of ListView
 
 ![README_VIDEO](./README_VIDEO.gif)
 
-The listview control does not Grayed-Out when set disabled. 
+The listview control does not Grayed-Out when set disabled.       
 This method shows the Grayed-Out listview "image" insted of actual listview.
 
 

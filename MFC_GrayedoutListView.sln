@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC_GrayedoutListView", "MFC_GrayedoutListView\MFC_GrayedoutListView.vcxproj", "{0DAF2F30-642B-40E1-82E0-97DB3F6220AA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5E780E3F-FC97-49CB-8E2B-6DDEC6EE6631}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		README_VIDEO.gif = README_VIDEO.gif
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
